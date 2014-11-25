@@ -1,3 +1,6 @@
+//KMP algorithm for longest string match problem:
+//	http://kb.cnblogs.com/page/176818/
+
 #include <iostream>
 #include <vector>
 #include <string>
